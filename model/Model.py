@@ -11,7 +11,7 @@ os.environ["OPENAI_API_KEY"] = "sk-..."
 st.title('Bank Question and answer ChatBot')
 
 
-csv_file_uploaded = r'..\output.csv'#st.file_uploader(label="Upload your CSV File here")
+csv_file_uploaded = r'..\output.csv'
 
 
 # Check if a file is uploaded
