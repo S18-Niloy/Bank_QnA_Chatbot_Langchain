@@ -1,4 +1,4 @@
-# Custom web Chatbot using Langcahin
+# Bank QnA Chatbotusing Langcahin
 
 Here I have made a Bank QnA chatbot using langchain and streamlit. 
 
