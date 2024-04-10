@@ -28,6 +28,7 @@ cd model
 streamlit run Model.py
 ```
 
+# Interface: 
 ![Example Image](BankQnA.png)
   
 
