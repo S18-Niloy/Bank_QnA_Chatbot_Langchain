@@ -19,13 +19,15 @@ git clone https://github.com/S18-Niloy/Bank_QnA_Chatbot_Langchain.git
 ```
 pip install -r requirements.txt
 ```
+3. Specify path:
 ```
 cd model
 ```
+3. Run the model:
 ```
 streamlit run Model.py
 ```
 
-
+![Example Image](BankQnA.png)
   
 
