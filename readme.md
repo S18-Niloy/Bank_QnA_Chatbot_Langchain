@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 cd model
 ```
-3. Run the model:
+4. Run the model:
 ```
 streamlit run Model.py
 ```
